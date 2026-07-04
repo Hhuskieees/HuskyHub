@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+build/
+*.env
+*.key
+*.token
+*.secret
+node_modules/
+temp/
+keys.json
+local_config.lua
+src/
